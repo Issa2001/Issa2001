@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h4 align="center">I am a sad introvert & an upcoming developer in the future.</h3>
-<h7 align="left">I'm a PyCharm student & I'm looking forward to improve my computer knowledge.😎<br>My home is [Sapphire🈲](https://chat.whatsapp.com/D4tuEhlXcBIFZtFiBWRnOV)</h7>
+<h7 align="left">I'm a PyCharm student & I'm looking forward to improve my computer knowledge.😎<br>My home is > [Sapphire🈲](https://chat.whatsapp.com/D4tuEhlXcBIFZtFiBWRnOV) <
 
 <div align="center">
 <img 
