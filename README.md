@@ -60,7 +60,7 @@
 
 - 🦜 Join in my Group: My **[Bot Group](https://chat.whatsapp.com/D4tuEhlXcBIFZtFiBWRnOV)** On WhatsApp.
 
-- 📫 How to reach me: **[WhatsApp](https://wa.me/16156249543)**
+- 📫 How to reach me: **[WhatsApp](https://wa.me/254115175696)**
 
 - 😂 Fun Fact: The colour blue has a calming effect. It causes the brain to release calming hormones.
 
