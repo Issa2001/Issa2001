@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
+<h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just a sad introvert & an upcoming developer in the future.</h3>
-<h7 align="left">I'm a PyCharm student & I'm looking forward to improve my computer knowledge.☄<br>
+<h7 align="left">I'm an AI student & I'm looking forward to improve my computer knowledge.☄<br>
 <div align="center">
 <img 
   </div>
@@ -103,10 +104,11 @@ Country; Kenya🇰🇪
 Sign; Libra♎
 Company;Sapphire🈲
 
-I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.
+I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.😂
 
-See yah 😉
+Thanks for visiting my profile.❤
 
+See yah! 😉
 
 
 
