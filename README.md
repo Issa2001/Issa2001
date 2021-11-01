@@ -85,11 +85,28 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 - Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)
+
+<details>
+    <summary><b>☄️ About Me </b></summary><br/>
+Hey😍
+
+[Intro]
+Name; İşşa
+Age; 21 years old☄
+Gender; Male👨
+Country; Kenya🇰🇪
+Sign; Libra♎
+Company;Sapphire🈲
+
+I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.
+
+See yah 😉
+
+
 
 
