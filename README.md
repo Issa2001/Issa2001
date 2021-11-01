@@ -71,12 +71,17 @@
 <a href="mailto:Issamoha016@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&layout=compact&theme=nightowl" alt="Issa" /></p>
+
+
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Issa2001)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Issa2001&theme=darkhub)
 </details>
 
-### GitHub Activity
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
 ![Metrics](![Metrics](https://metrics.lecoq.io/Issa2001?template=classic&config.timezone=Africa%2FNairobi))
+
 
