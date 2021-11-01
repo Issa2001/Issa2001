@@ -98,10 +98,15 @@ Hey😍
 
 [Intro]
 Name; İşşa
+
 Age; 21 years old☄
+
 Gender; Male👨
+
 Country; Kenya🇰🇪
+
 Sign; Libra♎
+
 Company;Sapphire🈲
 
 I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.😂
