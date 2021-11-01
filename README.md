@@ -72,16 +72,22 @@
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&layout=compact&theme=nightowl" alt="Issa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&theme=nightowl" alt="Issa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&theme=nightowl" alt="Issa" /></p>
 
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Issa2001&theme=darkhub)
-</details>
+### Programming Languages 🌐
 
-<details>
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+- Know/Using
 
-![Metrics](![Metrics](https://metrics.lecoq.io/Issa2001?template=classic&config.timezone=Africa%2FNairobi))
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
+|---|---|---|---|---|---|
+
+- Learning
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+|---|---|---|
 
 
