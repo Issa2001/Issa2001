@@ -97,6 +97,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Hey😍
 
 [Intro]
+
 Name; İşşa
 
 Age; 21 years old☄
@@ -109,7 +110,7 @@ Sign; Libra♎
 
 Company;Sapphire🈲
 
-I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.😂
+Well, I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.😂
 
 Thanks for visiting my profile.❤
 
