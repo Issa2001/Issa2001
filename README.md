@@ -66,6 +66,13 @@
 
 - 📲 Don't Forget To **[Follow Me](https://github.com/Issa2001)**
 
-
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Issa2001" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__.i.s.s.a.__" height="30" width="40" /></a>
+[<img align="left" alt="https://www.facebook.com/profile.php?id=100037298193290" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
+[<img align="left" alt="Issamoha016@gmail.com" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
+[<img align="left" alt="İşşa" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
+</p>
 
 
