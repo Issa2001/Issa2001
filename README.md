@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h4 align="center">I'm just a sad introvert & an upcoming developer in the future.</h3>
 <h7 align="left">I'm a PyCharm student & I'm looking forward to improve my computer knowledge.☄<br>
-
 <div align="center">
 <img 
   </div>
@@ -68,11 +67,16 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Issa2001" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__.i.s.s.a.__" height="30" width="40" /></a>
-[<img align="left" alt="https://www.facebook.com/profile.php?id=100037298193290" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
-[<img align="left" alt="Issamoha016@gmail.com" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
-[<img align="left" alt="İşşa" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
-</p>
+<a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="__.i.s.s.a.__" height="54" width="54" /></a>
+<a href="mailto:Issamoha016@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
+<a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
 
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Issa2001)
+</details>
+
+### GitHub Activity
+
+![Metrics](![Metrics](https://metrics.lecoq.io/Issa2001?template=classic&config.timezone=Africa%2FNairobi))
 
