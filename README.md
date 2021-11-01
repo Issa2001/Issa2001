@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
-<h4 align="center">I am a sad introvert & an upcoming developer in the future.</h3>
+<h4 align="center">I'm just a sad introvert & an upcoming developer in the future.</h3>
 <h7 align="left">I'm a PyCharm student & I'm looking forward to improve my computer knowledge.☄<br>
 
 <div align="center">
@@ -47,11 +47,11 @@
 </p>
 
 
-- 🚦 I’m currently working on [Github](https://github.com/Issa2001)
+- 🚦 I’m currently working on **[Github](https://github.com/Issa2001)**
 
 - 📖 I’m currently learning **JavaScript**, **TypeScript**, **Java** & **Python**.
 
- 👨‍💻 All of my projects are available at > [My Blog](https://github.com/Issa2001) <
+ 👨‍💻 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
 
 
 - 👥 I’m looking to collaborate with other **content creators.**
