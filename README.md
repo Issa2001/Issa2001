@@ -13,7 +13,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗝𝗔𝗩𝗔</span><br><br><br>
-        <img height="64px" src="https://www.google.com/search?q=java+4k+logo&tbm=isch&ved=2ahUKEwjdmPqmlo70AhWxgHMKHX-uDzoQ2-cCegQIABAC&oq=java+4k+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQA1AAWABgjQdoAHAAeACAAbIDiAGyA5IBAzQtMZgBAMABAQ&sclient=mobile-gws-wiz-img&ei=xe2LYZ2iLbGBzgP_3L7QAw&bih=592&biw=360&client=ms-android-transsion&prmd=ivnx#imgrc=qz8nkfUan93naM">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfaruaOe83DjP5UO5LNoPkP_635Hdw0Lw-Kw&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
