@@ -1,5 +1,4 @@
-<img align="center" height="auto" src="https://giphy.com/gifs/chelsea-akame-ga-kill-sleepin-rn-ISBqIcymUZlOU"/>
-
+<img align="center" height="auto" src="https://images.hdqwalls.com/download/umbrella-rain-anime-girl-4k-rg-1280x2120.jpg"/>
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
