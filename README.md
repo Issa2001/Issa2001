@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
-<h4 align="center">I'm just a sad introvert & an upcoming developer in the future.</h3>
+<h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 <h7 align="left">I'm an AI student & I'm looking forward to improve my computer knowledge.☄<br>
 <div align="center">
 <img 
@@ -12,8 +12,8 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pMksIcHJugZBUyufxUnUTI0LTMWp1junUw&usqp=CAU">
+        <span>𝗝𝗔𝗩𝗔</span><br><br><br>
+        <img height="64px" src="https://www.google.com/search?q=java+4k+logo&tbm=isch&ved=2ahUKEwjdmPqmlo70AhWxgHMKHX-uDzoQ2-cCegQIABAC&oq=java+4k+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQA1AAWABgjQdoAHAAeACAAbIDiAGyA5IBAzQtMZgBAMABAQ&sclient=mobile-gws-wiz-img&ei=xe2LYZ2iLbGBzgP_3L7QAw&bih=592&biw=360&client=ms-android-transsion&prmd=ivnx#imgrc=qz8nkfUan93naM">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
