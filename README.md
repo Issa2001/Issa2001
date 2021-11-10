@@ -13,7 +13,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfaruaOe83DjP5UO5LNoPkP_635Hdw0Lw-Kw&usqp=CAU">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
