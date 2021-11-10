@@ -1,3 +1,5 @@
+<img align="center" height="auto" src="https://giphy.com/gifs/chelsea-akame-ga-kill-sleepin-rn-ISBqIcymUZlOU"/>
+
 <h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
@@ -89,7 +91,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 - Learning
 
-     | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) 
+     | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
