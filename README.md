@@ -1,5 +1,5 @@
 <img align="center" height="auto" src="https://wallpaperaccess.com/full/3597714.jpg"/>
-<h1 align="center">Yoh 👋🏼 I'm <br>İşşa🇰🇪</h1>
+<h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 <h7 align="left">I'm an AI student & I'm looking forward to improve my computer knowledge.☄<br>
