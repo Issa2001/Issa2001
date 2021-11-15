@@ -27,8 +27,10 @@
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-        </td>
-        <td width="25%" align="center">
+       </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU">
         </td>
@@ -38,7 +40,7 @@
         </td>
         <td width="25%" align="center">
         <span>𝗨𝗯𝘂𝗻𝘁𝘂</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTDpTkVnLdGupnrLLQSQTTFIjNt8FG4n9xQ&usqp=CAU">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9gKUOx3b5xWGoB6ok_m7Vpd3Rl91cIJR1Q&usqp=CAU">
         </td>
         <td width="25%" align="center">
         <span>𝗥𝗮𝗶𝗹𝘄𝗮𝘆</span><br><br><br>
