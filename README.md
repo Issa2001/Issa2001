@@ -1,5 +1,5 @@
 <img align="center" height="auto" src="https://images.hdqwalls.com/download/umbrella-rain-anime-girl-4k-rg-1280x2120.jpg"/>
-<h1 align="center">Hi 👋🏼 I'm <br>İşşa🇰🇪</h1>
+<h1 align="center">Yoh 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 <h7 align="left">I'm an AI student & I'm looking forward to improve my computer knowledge.☄<br>
@@ -28,6 +28,21 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </td>
+        <td width="25%" align="center">
+        <span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU">
+        </td>
+        <td width="25%" align="center">
+        <span>𝗧𝗲𝗿𝗺𝘂𝘅</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU">
+        </td>
+        <td width="25%" align="center">
+        <span>𝗨𝗯𝘂𝗻𝘁𝘂</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTDpTkVnLdGupnrLLQSQTTFIjNt8FG4n9xQ&usqp=CAU">
+        </td>
+        <td width="25%" align="center">
+        <span>𝗥𝗮𝗶𝗹𝘄𝗮𝘆</span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU">
     </tr>
   </tbody>
 </table>
@@ -48,22 +63,22 @@
 </p>
 
 
-- 🚦 I’m currently working on **[Github](https://github.com/Issa2001)**
+- 🚦 I’m currently working on **[GITHUB](https://github.com/Issa2001)**
 
 - 💻 I’m currently learning **JavaScript**, **TypeScript**, **Java** & **Python**.
 
- 👨‍💻 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
+ 🗂 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
 
 
 - 👥 I’m looking to collaborate with other **content creators.**
 
 - ❓ Ask me about: **Bots** and **Coding**
 
-- 🦜 Join in my Group: My **[Bot Group](https://chat.whatsapp.com/D4tuEhlXcBIFZtFiBWRnOV)** On WhatsApp.
+- 🈵 Join in my Group: My **[Bot Group](https://chat.whatsapp.com/JlfT6tefKvmIuRsPrkazfA)** On WhatsApp.
 
 - 📫 How to reach me: **[WhatsApp](https://wa.me/254115175696)**
 
-- 😂 Fun Fact: The colour blue has a calming effect. It causes the brain to release calming hormones.
+- 💧 Fun Fact: The colour blue has a calming effect. It causes the brain to release calming hormones.
 
 - 📲 Don't Forget To **[Follow Me](https://github.com/Issa2001)**
 
@@ -85,12 +100,12 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Programming Languages 🌐
 
 - Using
-
-     |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
+     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hg2uFfb8Y4qiFOuB7EJeGz727rJ8ypkKwJoA866H_rnaBi_EpH6xewNP&s=10" alt="rust logo" width="24">](https://www.java.com/en/)|   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | 
+     
 
 - Learning
 
-     | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |
+     | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hg2uFfb8Y4qiFOuB7EJeGz727rJ8ypkKwJoA866H_rnaBi_EpH6xewNP&s=10" alt="rust logo" width="24">](https://www.java.com/en/)|   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | 
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
@@ -98,6 +113,7 @@ Hey😍
 
 
 [Intro]
+
 
 Name; İşşa
 
