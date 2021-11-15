@@ -1,4 +1,4 @@
-<img align="center" height="auto" src="https://images.hdqwalls.com/download/umbrella-rain-anime-girl-4k-rg-1280x2120.jpg"/>
+<img align="center" height="auto" src="https://wallpaperaccess.com/full/3597714.jpg"/>
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
@@ -132,5 +132,5 @@ Thanks for visiting my profile.❤
 
 Tonashi & see yah! 😉
 
-
+<img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUJ6GugQVf3zHbOy9Xs4vwN99p8PLvGL--Q&usqp=CAU"/>
 
