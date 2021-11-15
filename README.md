@@ -114,7 +114,6 @@ Hey😍
 
 [Intro]
 
-
 Name; İşşa
 
 Age; 21 years old☄
@@ -131,7 +130,7 @@ Well, I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. 
 
 Thanks for visiting my profile.❤
 
-See yah! 😉
+Tonashi & see yah! 😉
 
 
 
