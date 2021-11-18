@@ -96,12 +96,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&theme=nightowl" alt="Issa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&theme=nightowl" alt="Issa" /></p>
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
 ### Programming Languages 🌐
 
 - Using
+
      | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hg2uFfb8Y4qiFOuB7EJeGz727rJ8ypkKwJoA866H_rnaBi_EpH6xewNP&s=10" alt="rust logo" width="24">](https://www.java.com/en/)|   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | 
      
 
