@@ -1,9 +1,9 @@
-<img align="center" height="auto" src="https://wallpaperaccess.com/full/3597714.jpg"/>
+<img align="center" height="auto" src="http://m.gettywallpapers.com/wp-content/uploads/2021/09/Sad-Anime-Phone-Wallpaper.jpg"/>
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 
-<h4>🧰 Tools & Languages <h4>
+<h4> Tools & Languages <h4>
 
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Java Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU" alt="JavaScript Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhhR20W9MvOKrd_wcqWJU8Q2wBBLMgtc1JQ&usqp=CAU" alt="Typescript Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VlWvuCnSY1DqwI7Od38BY7d1InXlNuEvag&usqp=CAU" alt="Git Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU" alt="Heroku Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU" alt="Termux Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU" alt="my sql Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Railway Logo" with="50" height="50"/>
@@ -56,10 +56,12 @@
 <a href="https://wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-app-png-4.png" alt="Issa" height="59" width="59" /></a>
 <a href="https://www.facebook.com/profile.php?id=100037298193290" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Issa" height="52" width="52" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&locale=en&layout=compact" alt="Issa2001" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&layout=compact&theme=nightowl" alt="Issa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&theme=nightowl" alt="Issa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&theme=nightowl" alt="Issa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&locale=en" alt="Issa2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&" alt="Issa2001" /></p>
+
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
