@@ -2,49 +2,15 @@
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
 <h3 align="center">| Learner | Student |</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
-<h7 align="left">I'm an AI student & I'm looking forward to improve my computer knowledge.☄<br>
-<div align="center">
-<img 
-  </div>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+<h4>🧰 Tools & Languages <h4>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU">
-        </td>
-        <td width="25%" align="center">
-        <span>𝗧𝗲𝗿𝗺𝘂𝘅</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU">
-        </td>
-        <td width="25%" align="center">
-        <span>𝗨𝗯𝘂𝗻𝘁𝘂</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9gKUOx3b5xWGoB6ok_m7Vpd3Rl91cIJR1Q&usqp=CAU">
-        </td>
-        <td width="25%" align="center">
-        <span>𝗥𝗮𝗶𝗹𝘄𝗮𝘆</span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU">
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Java Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU" alt="JavaScript Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhhR20W9MvOKrd_wcqWJU8Q2wBBLMgtc1JQ&usqp=CAU" alt="Typescript Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VlWvuCnSY1DqwI7Od38BY7d1InXlNuEvag&usqp=CAU" alt="Git Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU" alt="Heroku Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU" alt="Termux Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU" alt="my sql Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Railway Logo" with="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJyeHry6a1jPO42KXCjQkUJPfsf_TZxSM-g&usqp=CAU" alt="Windows Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode Logo" with="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEN6fDm89O6g-B0h3eEPmVlxQyhlU1cNS7tQ&usqp=CAU" alt="MongoDB Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/>
     </tr>
   </tbody>
 </table>
@@ -90,22 +56,10 @@
 <a href="https://wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-app-png-4.png" alt="Issa" height="59" width="59" /></a>
 <a href="https://www.facebook.com/profile.php?id=100037298193290" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Issa" height="52" width="52" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSitqGRSVhkpmNXesXUaPuMlXoN69TK3bK2mtcBizOlu38azDUt" </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href= </a> <a href="" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpB4OvXQZGfDbQpFbTxQKht8jP43sko7wDA&usqp=CAU" alt="unreal" width="40" height="40"/> </a> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="MongoDB" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROG_0IoL7KjgbH0r3JwI1z_s_3MWkqcpqNCQ&usqp=CAU"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROG_0IoL7KjgbH0r3JwI1z_s_3MWkqcpqNCQ&usqp=CAU" /> <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&layout=compact&theme=nightowl" alt="Issa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&theme=nightowl" alt="Issa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&theme=nightowl" alt="Issa" /></p>
-
-### Programming Languages 🌐
-
-- Using
-
-     | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hg2uFfb8Y4qiFOuB7EJeGz727rJ8ypkKwJoA866H_rnaBi_EpH6xewNP&s=10" alt="rust logo" width="24">](https://www.java.com/en/)|   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | 
-     
-
-- Learning
-
-     | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hg2uFfb8Y4qiFOuB7EJeGz727rJ8ypkKwJoA866H_rnaBi_EpH6xewNP&s=10" alt="rust logo" width="24">](https://www.java.com/en/)|   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | 
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
