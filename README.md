@@ -1,4 +1,3 @@
-<img align="center" height="auto" src=""/>
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
 <h3 align="center">｟ 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 & 𝗡𝗼𝗼𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿😂 ｠</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
