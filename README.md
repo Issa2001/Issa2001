@@ -1,16 +1,13 @@
-<img align="center" height="auto" src="http://m.gettywallpapers.com/wp-content/uploads/2021/09/Sad-Anime-Phone-Wallpaper.jpg"/>
+<img align="center" height="auto" src=""/>
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
-<h3 align="center">| Learner | Student |</h3>
+<h3 align="center">｟ 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 & 𝗡𝗼𝗼𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿😂 ｠</h3>
 <h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 
-<h4> Tools & Languages <h4>
+<h4 align="left">Languages and Tools:</h4>
 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Java Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU" alt="JavaScript Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhhR20W9MvOKrd_wcqWJU8Q2wBBLMgtc1JQ&usqp=CAU" alt="Typescript Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VlWvuCnSY1DqwI7Od38BY7d1InXlNuEvag&usqp=CAU" alt="Git Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjNEKK7Z2bPCUtfvtU9scS9wHn_oGMor8uw&usqp=CAU" alt="Heroku Logo" with="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU" alt="Termux Logo" with="50" height="50"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU" alt="my sql Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Railway Logo" with="50" height="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJyeHry6a1jPO42KXCjQkUJPfsf_TZxSM-g&usqp=CAU" alt="Windows Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode Logo" with="50" height="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEN6fDm89O6g-B0h3eEPmVlxQyhlU1cNS7tQ&usqp=CAU" alt="MongoDB Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://java.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV84o9NjI8z-AbUAYruTLmePjWaI5wpLYswg&usqp=CAU" alt="java" width="40" height="40"/> </a> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VlWvuCnSY1DqwI7Od38BY7d1InXlNuEvag&usqp=CAU" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VlWvuCnSY1DqwI7Od38BY7d1InXlNuEvag&usqp=CAU" alt="github" width="40" height="40"/> </a> <a href="https://termux.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcw1rbrYJ3o2a1SW1TOYduaDbbKpwGEMJGg&usqp=CAU" alt="termux" width="40" height="40"/> </a> <a href="
+h" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU" alt="railway" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpa38hjbyViY6NaAwQZcnCGtM81q7f7s1VaA&usqp=CAU" target="_blank"> <img src="
+https://logo-all.ru/uploads/posts/2018-07/0_linux_logo.jpg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://vscode.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://python.org" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzmFPuVjqOI9cJozNAmfZKI0TpzHrUWEDdQ&usqp=CAU" alt="python" width="40" height="40"/> </a> <a href="https://netlify.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNvPTLba62mndeYlG7z0FJ8NoUtErOtYlQg&usqp=CAU" alt="netlify" width="40" height="40"/> </a> <a href="https://reactjs.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLso9_SzQ7trpU2LhyMju6M6NoUnhpZX8SAw&usqp=CAU" alt="react" width="40" height="40"/> </a> </p>
     </tr>
   </tbody>
 </table>
@@ -31,9 +28,9 @@
 </p>
 
 
-- 🚦 I’m currently working on **[GITHUB](https://github.com/Issa2001)**
+- 🚦 I’m currently working on WhatsApp bots.
 
-- 💻 I’m currently learning **JavaScript**, **TypeScript**, **Java** & **Python**.
+- 👨‍💻 I’m currently learning **JavaScript**, **TypeScript**, **Java** & **Python**.
 
  🗂 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
 
@@ -46,7 +43,7 @@
 
 - 💧 Fun Fact: The colour blue has a calming effect. It causes the brain to release calming hormones.
 
-- 📲 Don't Forget To **[Follow Me](https://github.com/Issa2001)**
+- 📮 Don't Forget To **[Follow Me](https://github.com/Issa2001)**
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
