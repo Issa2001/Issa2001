@@ -32,7 +32,7 @@ https://logo-all.ru/uploads/posts/2018-07/0_linux_logo.jpg" alt="linux" width="4
 
 - 👨‍💻 I’m currently learning **JavaScript**, **TypeScript**, **Java** & **Python**.
 
- 🗂 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
+- 🗃 All of my projects are available at **[My Blog](https://github.com/Issa2001)** 
 
 
 - 👥 I’m looking to collaborate with other **content creators.**
