@@ -14,7 +14,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://visualstudiocode.com" target="_blank"> <img src="https://banner2.cleanpng.com/20180326/pcw/kisspng-visual-studio-code-microsoft-visual-studio-source-notice-5ab888a49bf4e3.9400538815220430446388.jpg" alt="vscode" width="40" height="40"/></a>
+<a href="https://visualstudiocode.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 </p>
