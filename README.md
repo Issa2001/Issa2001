@@ -13,7 +13,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.github.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI24rElA0LNNiFuB2duxcTt_tpZxpzjOQpsA&usqp=CAU" alt="github" width="40" height="40"/></a>
+<a href="https://www.github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://visualstudiocode.com" target="_blank"> <img src="https://banner2.cleanpng.com/20180326/pcw/kisspng-visual-studio-code-microsoft-visual-studio-source-notice-5ab888a49bf4e3.9400538815220430446388.jpg" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
@@ -50,7 +50,7 @@
 
 - ❓ Ask me about: **Bots** and **Coding**
 
-- 🈵 Join in my Group: My **[Bot Group](https://chat.whatsapp.com/JlfT6tefKvmIuRsPrkazfA)** On WhatsApp.
+- 🈵 Join in my Group: My **[Bot Group](https://chat.whatsapp.com/IIIiQKSanm6AhRlgCsmdeb)** On WhatsApp.
 
 - 💧 Fun Fact: The colour blue has a calming effect. It causes the brain to release calming hormones.
 
@@ -61,7 +61,6 @@
 <a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="__.i.s.s.a.__" height="54" width="54" /></a>
 <a href="mailto:Issamoha016@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
-<a href="https://wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-app-png-4.png" alt="Issa" height="59" width="59" /></a>
 <a href="https://www.facebook.com/profile.php?id=100037298193290" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Issa" height="52" width="52" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&locale=en&layout=compact" alt="Issa2001" /></p>
