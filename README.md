@@ -1,7 +1,6 @@
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
-<h2 align="center">I'm just an introvert & an upcoming developer in the future.</h2>
-<h3 align="center">｟ 𝗢𝗽𝗲𝗻 & 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ｠</h3>
-
+<h2 align="center">｟ 𝗢𝗽𝗲𝗻 & 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ｠</h2>
+<h3 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
