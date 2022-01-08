@@ -66,6 +66,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&locale=en" alt="Issa2001" /></p>
 
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Issa2001)](https://github.com/Issa2001)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&" alt="Issa2001" /></p>
 
 
