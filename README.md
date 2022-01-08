@@ -1,6 +1,6 @@
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
-<h3 align="center">｟ 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 & 𝗡𝗼𝗼𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿🕺 ｠</h3>
-<h4 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
+<h2 align="center">I'm just an introvert & an upcoming developer in the future.</h2>
+<h3 align="center">｟ 𝗢𝗽𝗲𝗻 & 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ｠</h3>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
@@ -74,14 +74,11 @@
     <summary><b>☄️ About Me </b></summary><br/>
 Hey😍
 
-
-[Intro]
-
-Name; İşşa
+Name; İşşa(Steve)
 
 Age; 21 years old☄
 
-Gender; Male👨
+Gender; Male🎭
 
 Country; Kenya🇰🇪
 
