@@ -91,9 +91,9 @@ Company; Sapphire🈲
 
 Well, I am an IT & AI student. For now I'm focused on Telegram & WhatsApp bots. I like learning new things with others or by my own.😂
 
-Thanks for visiting my profile.❤
+Thanks for visiting my profile.🤍
 
-Tonashi & see yah! 😉
+Tonashi & see yah! 💘
 
 <img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUJ6GugQVf3zHbOy9Xs4vwN99p8PLvGL--Q&usqp=CAU"/>
 
