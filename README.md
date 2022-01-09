@@ -1,5 +1,6 @@
+<img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Yl1llygtkwL6kZYlwYc_P7au0y8PDKyk7Q&usqp=CAU"/>
 <h1 align="center">Yoh 👋🏼 I'm <br>İşşa🙂🇰🇪</h1>
-<h2 align="center">｟ 𝗢𝗽𝗲𝗻 & 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ｠</h2>
+<p align="center">｟ 𝗢𝗽𝗲𝗻 & 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ｠</h2>
 <h3 align="center">I'm just an introvert & an upcoming developer in the future.</h3>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
