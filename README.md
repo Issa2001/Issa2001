@@ -12,7 +12,9 @@
 
 - 🎋 I'm a student & a noob developer.
 
-- 🚀 I’m currently working & in love with WhatsApp bots.
+- 📑 I’m currently learning Typescript & JavaScript.
+
+- 🚀 In love with WhatsApp bots.
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
