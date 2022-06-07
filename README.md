@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Konichiwa%F0%9F%91%8B.....;It's+me....;Guess+who%3F;Issa+%F0%9F%98%82;Satisfied%3F+No%3F;Welcome+to+my+github+profile%F0%9F%98%8D"
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Konichiwa%F0%9F%91%8B.....;It's+me....;Guess+who%3F;Issa+%F0%9F%98%82;Satisfied%3F+No%3F;Welcome+to+my+profile%F0%9F%98%8D"
             alt="Typing SVG"
         />
     </a>
@@ -48,7 +48,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="Issa" height="55" width="55" /></a>
+<a href="wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="Issa" height="56" width="56" /></a>
 <a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="__.i.s.s.a.__" height="54" width="54" /></a>
 <a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
@@ -61,3 +61,13 @@
 [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Issa2001)](https://github.com/Issa2001)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&" alt="Issa2001" /></p>
+
+ ## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&color=4A992F&lines=Thank+you+for+visiting+my+profile%F0%9F%98%8D;Don't+forget+to+follow+me....;See+yah+%F0%9F%92%98"
+            alt="Typing SVG"
+
+</p>
+
