@@ -48,7 +48,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="Wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="Issa" height="56" width="56" /></a>
+<a href="https://Wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="Issa" height="56" width="56" /></a>
 <a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="__.i.s.s.a.__" height="54" width="54" /></a>
 <a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
