@@ -18,7 +18,7 @@
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
-- Owner of [Sapphire Inc.](https://github.com/Sapphire2022)
+- 👑 Owner of [Sapphire Inc.](https://github.com/Sapphire2022)
 
 - 🗽 I'm too rare.
 
