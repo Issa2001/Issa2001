@@ -14,7 +14,7 @@
 
 - 📑 I’m currently learning Typescript & JavaScript.
 
-- I'm currently busy working with [@Sapphire Inc.](https://github.com/Sapphire2022) & [@ZeroTwo Inc.](https://github.com/ZeroTwoInc)
+- 🏗 I'm currently busy working with [@Sapphire Inc.](https://github.com/Sapphire2022) & [@ZeroTwo Inc.](https://github.com/ZeroTwoInc)
 
 - 🚀 In love with WhatsApp bots.
 
