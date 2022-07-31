@@ -10,7 +10,7 @@
     <img align="center" height="auto" src="https://www.linkpicture.com/q/Just-Studying.jpg"/>
 </p>
 
-- 🎋 I'm a student & a noob developer.
+- 🎋 I'm a student.
 
 - 📑 I’m currently learning Typescript & JavaScript.
 
@@ -20,7 +20,7 @@
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
-- 👑 Owner of [Sapphire Inc.](https://github.com/Sapphire2022)
+- 👑 Founder of [Sapphire Inc.](https://github.com/Sapphire2022)
 
 - 🗽 I'm too rare.
 
