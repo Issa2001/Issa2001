@@ -7,7 +7,7 @@
         />
     </a>
 </p>
-    <img align="center" height="auto" src="https://www.linkpicture.com/q/Just-Studying.jpg"/>
+    <img align="center" height="auto" src="https://pin.it/GY4w1xb"/>
 </p>
 
 - 🎋 I'm a student.
