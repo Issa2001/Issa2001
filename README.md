@@ -14,13 +14,13 @@
 
 - 📑 I’m currently learning Typescript & JavaScript.
 
-- 🏗 I'm currently busy working with [@Sapphire Inc.](https://github.com/Sapphire2022)
+- 🏗 I'm currently busy working with `Sapphire Inc`(https://github.com/Sapphire2022)
 
 - 🚀 In love with WhatsApp bots.
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
-- 👑 Founder of [Sapphire Inc.](https://github.com/Sapphire2022)
+- 👑 Founder of `Sapphire Inc`(https://github.com/Sapphire2022)
 
 - 🗽 I'm too rare.
 
