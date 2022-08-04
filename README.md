@@ -7,14 +7,14 @@
         />
     </a>
 </p>
-    <img align="center" height="auto" src="https://pin.it/GY4w1xb"/>
+    <img align="center" height="auto" src="https://www.linkpicture.com/q/Hate-studying.jpg"/>
 </p>
 
 - 🎋 I'm a student.
 
 - 📑 I’m currently learning Typescript & JavaScript.
 
-- 🏗 I'm currently busy working with [@Sapphire Inc.](https://github.com/Sapphire2022) & [@ZeroTwo Inc.](https://github.com/ZeroTwoInc)
+- 🏗 I'm currently busy working with [@Sapphire Inc.](https://github.com/Sapphire2022)
 
 - 🚀 In love with WhatsApp bots.
 
