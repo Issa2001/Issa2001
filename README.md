@@ -24,7 +24,7 @@
 
 - 🗽 I'm too rare.
 
-- ⚡ Don't forget to [Follow me](https://github.com/Issa2001).
+- ⚡ Don't forget to [Follow me.](https://github.com/Issa2001)
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
