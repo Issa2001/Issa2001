@@ -18,7 +18,7 @@
 
 - 🚀 In love with WhatsApp bots.
 
--⭐ Open & Private source.
+- ⭐ Open & Private source.
 
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
 
