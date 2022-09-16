@@ -68,7 +68,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&" alt="Issa2001" /></p>
 
-## Dev Quotes
+## Dev Quotes:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle&theme=graywhite&quoteCategory=programming)
 
  ## <!-- Typing SVG -->
