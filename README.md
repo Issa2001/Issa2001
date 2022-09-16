@@ -10,7 +10,7 @@
     <img align="center" height="auto" src="https://www.linkpicture.com/q/Hate-studying.jpg"/>
 </p>
 
-- 🎋 I'm a student.
+- 🎋 I'm a student/learner.
 
 - 📑 I’m currently learning Typescript & JavaScript.
 
