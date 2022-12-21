@@ -10,6 +10,18 @@
     <img align="center" height="auto" src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Issa2001/Issa2001.git">
+    <img src="https://komarev.com/ghpvc/?username=Issa2001&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/Issa2001?tab=stars">
+    <img src="https://img.shields.io/github/stars/Issa2001?color=ff69b4&label=Stargazers&style=plastic">
+
+  </a>
+  <a href="https://github.com/https://github.com/Issa2001?tab=followers">
+    <img src="https://img.shields.io/github/followers/Issa2001?color=ff69b4&label=Followers&style=plastic">
+
 - 🎋 Just trying ^_^
 
 - 📑 I’m currently learning Typescript.
@@ -41,18 +53,6 @@
     </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Issa2001/Issa2001.git">
-    <img src="https://komarev.com/ghpvc/?username=Issa2001&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-
-  </a>
-  <a href="https://github.com/Issa2001?tab=stars">
-    <img src="https://img.shields.io/github/stars/Issa2001?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
-  <a href="https://github.com/https://github.com/Issa2001?tab=followers">
-    <img src="https://img.shields.io/github/followers/Issa2001?color=ff69b4&label=Followers&style=plastic">
 
 ## Contact Me:
 <p align="left">
