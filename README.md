@@ -7,14 +7,14 @@
         />
     </a>
 </p>
-    <img align="center" height="auto" src="https://www.linkpicture.com/q/Hate-studying.jpg"/>
+    <img align="center" height="auto" src="https://ibb.co/GpftKFt"/>
 </p>
 
-- 🎋 I'm a student/learner.
+- 🎋 Just trying ^_^
 
-- 📑 I’m currently learning Typescript & JavaScript.
+- 📑 I’m currently learning Typescript.
 
-- 🏗 I'm currently busy working with [Sapphire Inc.](https://github.com/Sapphire2022)
+- 🏗 I'm currently working with [Sapphire Inc.](https://github.com/Sapphire2022)
 
 - 🚀 In love with WhatsApp bots.
 
@@ -25,6 +25,8 @@
 - 👑 Founder of `Sapphire Inc`
 
 - ⚡ Don't forget to [Follow me.](https://github.com/Issa2001)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ub97lfve8ssp2i5mqxlqpsc6e&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
@@ -59,7 +61,7 @@
 <a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Issa" height="50" width="60" /></a>
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
 <a href="https://www.facebook.com/profile.php?id=100037298193290" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Issa" height="52" width="52" /></a>
-
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&locale=en&layout=compact" alt="Issa2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&locale=en" alt="Issa2001" /></p>
