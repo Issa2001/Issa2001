@@ -54,7 +54,7 @@
   <a href="https://github.com/https://github.com/Issa2001?tab=followers">
     <img src="https://img.shields.io/github/followers/Issa2001?color=ff69b4&label=Followers&style=plastic">
 
-## Contact Me
+## Contact Me:
 <p align="left">
 <a href="https://Wa.me/254115175696" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="Issa" height="56" width="56" /></a>
 <a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="__.i.s.s.a.__" height="54" width="54" /></a>
@@ -62,7 +62,7 @@
 <a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Issa" height="54" width="54" /></a>
 <a href="https://www.facebook.com/profile.php?id=100037298193290" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Issa" height="52" width="52" /></a>
     
-## 📈Github Stats
+## 📈Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Issa2001&show_icons=true&locale=en&layout=compact" alt="Issa2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Issa2001&show_icons=true&locale=en" alt="Issa2001" /></p>
@@ -71,7 +71,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Issa2001&" alt="Issa2001" /></p>
 
-## ⭐Lit Developer Quote
+## ⭐Lit Developer Quote:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle&theme=graywhite&quoteCategory=programming)
 
  ## <!-- Typing SVG -->
