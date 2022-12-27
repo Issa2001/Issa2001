@@ -7,7 +7,8 @@
         />
     </a>
 </p>
-    <img align="center" src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg"/>
+    <p align="center"><img src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg"/>
+    </br><code>🦈 import { focus, life } from 'life-script' 🦈</code>
 </p>
 
 <p align="center">
@@ -24,9 +25,11 @@
 
 ## 🙂 About Me:
 
+- 🌠 ![Age](https://img.shields.io/badge/age-21-green)
+
 - 🎋 Just trying ^_^
 
-- 🏗 I'm currently working with [Sapphire Inc.](https://github.com/Sapphire2022)
+- 🏗 I'm currently working with [`Sapphire Inc.`](https://github.com/Sapphire2022)
 
 - 🚀 In love with WhatsApp bots.
 
@@ -36,7 +39,7 @@
 
 - 👑 Founder of `Sapphire Inc`
       
-## Contact Me:     
+## 📬 Contact Me:     
 <p align="left">      
 <a href="https://instagram.com/__.i.s.s.a.__" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram" height="70" width="70" /></a>
 <a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="gmail" height="70" width="70" /></a>
