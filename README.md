@@ -25,7 +25,7 @@
 
 ## 🙂 About Me:
 
-- 🌠 ![Age](https://img.shields.io/badge/age-21-green)
+- 🌠 ![Age](https://img.shields.io/badge/age-22-green)
 
 - 🎋 Just trying ^_^
 
